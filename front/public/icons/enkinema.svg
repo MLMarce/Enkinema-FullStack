@@ -1,0 +1,9 @@
+<svg width="20" height="20" style="border-radius:50%">
+    <!-- Fondo del logo -->
+    <rect width="100%" height="100%" fill="hsl(223, 10%, 10%)"/>
+
+    <!-- Letra K -->
+    <text x="9" y="16" fill="hsl(201, 70%, 70%)" font-size="10">K</text>
+    <!-- Letra E -->
+    <text x="4" y="13" fill="hsl(221, 70%, 60%)" font-size="15">E</text>
+</svg>
